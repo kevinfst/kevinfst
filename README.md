@@ -6,7 +6,7 @@
 <img align='right' src='Ekko_19.png' width='300"'>
 
  
-Oi, meu nome é <strong>Kevin Santos</strong>, eu estou cursando análise e desenvolvimento de sistemas, amo programar👨‍💻, fazer stream🎥, jogar🎮 e muito mais.
+Hi, my name is <strong>Kevin Santos</strong>, I'm studying systems analysis and development, I love programming👨‍💻, streaming🎥, gaming🎮 and much more.
 
 -  Eu estou estudando na [FATEC PRAIA GRANDE](https://www.fatecpg.edu.br/) - Análise e desenvolvimento de sistemas.
 -  Tenho como objetivo atual colocar em prática todo o meu conhecimento, seja em grandes projetos, ou pequenos :) 
