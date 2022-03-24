@@ -3,6 +3,10 @@
 
 # Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
+[![Linkedin Badge](https://img.shields.io/badge/-kevinfernandes-DC1A1A?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinfernandes/?locale=en_US)](https://www.linkedin.com/in/kevin-fernandes-3b5613235/) 
+[![Instagram Badge](https://img.shields.io/badge/-@zCodexs-DC1A1A?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/zcodexs//)](https://www.instagram.com/zcodexs/)
+[![Twitter Badge](https://img.shields.io/badge/-@zCodexs-DC1A1A?style=flat-square&labelColor=DC1A1A&logo=twitter&logoColor=white&link=https://twitter.com/zCodexs)](https://twitter.com/zCodexs) 
+
 <img align='right' src='Ekko_19.png' width='300"'>
 
  
