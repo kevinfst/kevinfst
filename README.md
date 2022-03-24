@@ -9,9 +9,10 @@
 Hi, my name is <strong>Kevin Santos</strong>, I'm studying systems analysis and development, I love programming👨‍💻, streaming🎥, gaming🎮 and many more things
 
 
--  Eu estou estudando na [FATEC PRAIA GRANDE](https://www.fatecpg.edu.br/) - Análise e desenvolvimento de sistemas.
--  Tenho como objetivo atual colocar em prática todo o meu conhecimento, seja em grandes projetos, ou pequenos :) 
--  Todos os projetos grandes ou pequenos irei estar colocando aqui, para que eu possa mostrar minha evolução para as pessoas e para o meu eu do futuro :D
+-  I am studying at [FATEC PRAIA GRANDE](https://www.fatecpg.edu.br/) - Systems analysis and development.
+-  My current goal is to put all my knowledge into practice, whether in big or small projects :)
+-  All projects big or small I will be posting here, so that I can show my evolution to people and to my future self :D
+
 <br><br> 
 
 #### <kbd>Languages and tools:</kbd><br> 
