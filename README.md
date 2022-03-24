@@ -3,10 +3,6 @@
 
 # Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-kevinfernandes-DC1A1A?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinfernandes/?locale=en_US)](https://www.linkedin.com/in/kevin-fernandes-3b5613235/) 
-[![Instagram Badge](https://img.shields.io/badge/-@zCodexs-DC1A1A?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/zcodexs//)](https://www.instagram.com/zcodexs/)
-[![Twitter Badge](https://img.shields.io/badge/-@zCodexs-DC1A1A?style=flat-square&labelColor=DC1A1A&logo=twitter&logoColor=white&link=https://twitter.com/zCodexs)](https://twitter.com/zCodexs) 
-
 <img align='right' src='Ekko_19.png' width='300"'>
 
  
@@ -29,17 +25,9 @@ Hi, my name is <strong>Kevin Santos</strong>, I'm studying systems analysis and 
 
 <kbd>Social ⤵:</kbd>
 
-  <a href="https://www.instagram.com/zcodexs/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/kevin-fernandes-3b5613235/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-<a href="https://twitter.com/zCodexs">
-    <img src="twitter.jpg" width="112px" height="35px"/> 
-  </a>
+[![Linkedin Badge](https://img.shields.io/badge/-kevinfernandes-DC1A1A?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinfernandes/?locale=en_US)](https://www.linkedin.com/in/kevin-fernandes-3b5613235/) 
+[![Instagram Badge](https://img.shields.io/badge/-@zCodexs-DC1A1A?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/zcodexs//)](https://www.instagram.com/zcodexs/)
+[![Twitter Badge](https://img.shields.io/badge/-@zCodexs-DC1A1A?style=flat-square&labelColor=DC1A1A&logo=twitter&logoColor=white&link=https://twitter.com/zCodexs)](https://twitter.com/zCodexs) 
 
 <details><summary><b><kbd>GitHub Stats</kbd></b></summary>
   
