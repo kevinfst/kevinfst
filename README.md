@@ -1,7 +1,7 @@
 
 
 
-# Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">  <img src="https://media.giphy.com/media/FoKl27OsaScXqx2m5T/giphy-downsized-large.gif" width="45px">
+# Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">  <img src="https://giphy.com/embed/FoKl27OsaScXqx2m5T" width="45px">
 
 <img align='right' src='Ekko_19.png' width='300"'>
 
