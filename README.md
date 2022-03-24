@@ -1,7 +1,7 @@
 
 
 
-# Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">  
+# Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">  <img src="" width="45px">
 
 <img align='right' src='Ekko_19.png' width='300"'>
 
@@ -31,6 +31,9 @@ Oi, meu nome é <strong>Kevin Santos</strong>, eu estou cursando análise e dese
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
+<a href="https://twitter.com/zCodexs">
+    <img src="twitter.jpg" width="112px" height="35px"/> 
+  </a>
 
 <details><summary><b><kbd>GitHub Stats</kbd></b></summary>
   
