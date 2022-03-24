@@ -36,4 +36,6 @@ Hi, my name is <strong>Kevin Santos</strong>, I'm studying systems analysis and 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSantos26&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KevinSantos26&color=FF00FF" alt="KevinSantos26" /> </p>
+ 
 </details>
