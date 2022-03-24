@@ -38,4 +38,4 @@ Hi, my name is <strong>Kevin Santos</strong>, I'm studying systems analysis and 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KevinSantos26&color=FF00FF" alt="KevinSantos26" /> </p>
  
-</details> a
+</details>
