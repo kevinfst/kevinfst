@@ -3,7 +3,7 @@
 
 # Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-<img align='right' src='Uzui.png' width='300"'>
+<img align='right' src='Uzuiatt.png' width='300"'>
 
  
 Hi, my name is <strong>Kevin Santos</strong>, I'm studying systems analysis and development, I love programming👨‍💻, streaming🎥, gaming🎮 and many more things
