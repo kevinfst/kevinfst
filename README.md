@@ -13,7 +13,7 @@ Oi, meu nome é <strong>Kevin Santos</strong>, eu estou cursando análise e dese
 -  Todos os projetos grandes ou pequenos irei estar colocando aqui, para que eu possa mostrar minha evolução para as pessoas e para o meu eu do futuro :D
 <br><br> 
 
-#### <kbd>Linguagens e ferramentas:</kbd><br> 
+#### <kbd>Languages and tools:</kbd><br> 
 
 <img height="26" title="C#" alt="C#" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor"> &nbsp;
 
