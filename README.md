@@ -29,7 +29,7 @@ Hi, my name is <strong>Kevin Santos</strong>, I'm studying systems analysis and 
 [![Instagram Badge](https://img.shields.io/badge/-@zCodexs-FF00FF?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/zcodexs//)](https://www.instagram.com/zcodexs/)
 [![Twitter Badge](https://img.shields.io/badge/-@zCodexs-FF00FF?style=flat-square&labelColor=FF00FF&logo=twitter&logoColor=white&link=https://twitter.com/zCodexs)](https://twitter.com/zCodexs) 
 
-<details><summary><b><kbd>GitHub Stats</kbd></b></summary>
+
   
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kevinst26&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="kevinst26" />
