@@ -34,9 +34,14 @@ Oi, meu nome é <strong>Kevin Santos</strong>, eu estou cursando <strong>Anális
 
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-FF00FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/KevinSantos/?locale=en_US)](https://www.linkedin.com/in/kevin-santos-3b5613235/) 
 [![Instagram Badge](https://img.shields.io/badge/-INSTAGRAM-FF00FF?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/zcodexs//)](https://www.instagram.com/zcodexs/)
+<a href = "mailto:kevinst2610@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-FF00FF?style=flat-square&logo=GMAIL&logoColor=white&" target="_blank"></a>
 
 
-  
+
+
+
+
+
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kevinst26&show_icons=true&theme=radical" alt="kevinst26" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinst26&layout=compact&show_icons=true&theme=radical" alt="Top langs" />
