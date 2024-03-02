@@ -20,6 +20,7 @@ Oi, meu nome é <strong>Kevin Santos</strong>, eu estou cursando <strong>Anális
 <img height="26" title="C#" alt="C#" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title="C++" alt="C++" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title="Java" alt="Java" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor"> &nbsp;
+<img height="26" title="ReactNative" alt="ReactNative" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor"> &nbsp;
 
 <img height="26" title="HTML5" alt="HTML5" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title="CSS3" alt="CSS3" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor"> &nbsp;
@@ -27,6 +28,7 @@ Oi, meu nome é <strong>Kevin Santos</strong>, eu estou cursando <strong>Anális
 
 <img height="26" title=".NET" alt=".NET" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title="MicrosoftSQLServer" alt="MicrosoftSQLServer" src="https://www.freeiconspng.com/uploads/mssql-sql-server-icon-png-15.png"> &nbsp;
+
 
 
 
