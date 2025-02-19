@@ -45,8 +45,8 @@ Oi, meu nome é <strong>Kevin Santos</strong>, eu estou cursando <strong>Anális
 
 
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinst26&show_icons=true&theme=radical" alt="kevinst26" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinst26&layout=compact&show_icons=true&theme=radical" alt="Top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinfst&show_icons=true&theme=radical" alt="kevinst26" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfst&layout=compact&show_icons=true&theme=radical" alt="Top langs" />
 </p>
 
 
