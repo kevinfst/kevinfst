@@ -15,19 +15,34 @@ Oi, meu nome é <strong>Kevin Santos</strong>, eu estou cursando <strong>Anális
 
 <br><br> 
 
-#### <kbd>Linguagens e Ferramentas:</kbd><br> 
+#### <kbd>Linguagens de Programação</kbd><br> 
 
 <img height="26" title="C#" alt="C#" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title="C++" alt="C++" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title="Java" alt="Java" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor"> &nbsp;
-<img height="26" title="ReactNative" alt="ReactNative" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor"> &nbsp;
+<img height="26" title="JS" alt="JS" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"> &nbsp;
+
+#### <kbd>Frameworks e Bibliotecas</kbd><br> 
+
+<img height="26" title="React" alt="React" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor"> &nbsp;
+<img height="40" title="Express.js" alt="Express.js" src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=ffffff"> &nbsp;
+<img height="26" title=".NET" alt=".NET" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor"> &nbsp;
+
+#### <kbd>Banco de Dados</kbd><br> 
+
+<img height="40" title="MySQL" alt="MySQL" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=29db47"> &nbsp;
+<img height="40" title="MicrosoftSQLServer" alt="MicrosoftSQLServer" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"> &nbsp;
+
+#### <kbd>Tecnologias Web</kbd><br> 
 
 <img height="26" title="HTML5" alt="HTML5" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title="CSS3" alt="CSS3" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor"> &nbsp;
-<img height="26" title="JS" alt="JS" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"> &nbsp;
 
-<img height="26" title=".NET" alt=".NET" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor"> &nbsp;
-<img height="26" title="MicrosoftSQLServer" alt="MicrosoftSQLServer" src="https://www.freeiconspng.com/uploads/mssql-sql-server-icon-png-15.png"> &nbsp;
+#### <kbd>Ferramentas</kbd><br> 
+
+<img height="26" title="NodeJS" alt="NodeJS" src="https://icongr.am/devicon/nodejs-plain.svg?size=128&color=29db47"> &nbsp;
+
+
 
 
 
