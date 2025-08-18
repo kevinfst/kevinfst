@@ -6,7 +6,7 @@
 <img align='right' src='Octocat.png' width='300"'>
 
  
-Oi, meu nome é <strong>Kevin Santos</strong>, eu estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong>, amo programar👨‍💻, streaming🎥, jogar🎮 e muito mais.
+Oi, meu nome é <strong>Kevin Santos</strong>, sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, amo programar👨‍💻, streaming🎥, jogar🎮 e muito mais.
 
 
 -  📚 Formado em Dez de 2024 na área de Análise e Desenvolvimento de Sistemas na [FATEC PRAIA GRANDE](https://www.fatecpg.edu.br/)
