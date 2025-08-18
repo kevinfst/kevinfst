@@ -49,10 +49,8 @@ Oi, meu nome é <strong>Kevin Santos</strong>, eu estou cursando <strong>Anális
 
 <kbd>Social ⤵:</kbd>
 
-[![Linkedin Badge](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=FF4D9B)](https://www.linkedin.com/in/kevin-santos-3b5613235/) 
-<a href="mailto:kevinst2610@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-000000?style=flat-square&logo=gmail&logoColor=white&labelColor=FF4D9B">
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-FF4D9B?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/KevinSantos/?locale=en_US)](https://www.linkedin.com/in/kevin-santos-3b5613235/) 
+<a href = "mailto:kevinst2610@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-FF4D9B?style=flat-square&logo=GMAIL&logoColor=white&" target="_blank"></a>
 
 
 
