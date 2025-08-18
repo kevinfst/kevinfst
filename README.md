@@ -9,7 +9,7 @@
 Oi, meu nome é <strong>Kevin Santos</strong>, eu estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong>, amo programar👨‍💻, streaming🎥, jogar🎮 e muito mais.
 
 
--  📚 Cursando Análise e Desenvolvimento de Sistemas na [FATEC PRAIA GRANDE](https://www.fatecpg.edu.br/)
+-  📚 Formado em Dez de 2024 na área de Análise e Desenvolvimento de Sistemas na [FATEC PRAIA GRANDE](https://www.fatecpg.edu.br/)
 -  Meu objetivo atual é colocar todo o meu conhecimento em prática, seja em grandes ou pequenos projetos 
 -  Todos os projetos grandes ou pequenos estarei postando aqui, para que eu possa mostrar minha evolução para as pessoas e para o meu eu do futuro 😀
 
