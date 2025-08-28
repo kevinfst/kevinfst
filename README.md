@@ -17,16 +17,20 @@ Oi, meu nome é <strong>Kevin Santos</strong>, sou formado em <strong>Análise e
 
 #### <kbd>Linguagens de Programação</kbd><br> 
 
-<img height="26" title="C#" alt="C#" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor"> &nbsp;
-<img height="26" title="C++" alt="C++" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title="Java" alt="Java" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor"> &nbsp;
 <img height="26" title="JS" alt="JS" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"> &nbsp;
+<img height="26" title="PHP" alt="PHP" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"> &nbsp;
+<img height="26" title="C#" alt="C#" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor"> &nbsp;
+<img height="26" title="C++" alt="C++" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor"> &nbsp;
 
 #### <kbd>Frameworks e Bibliotecas</kbd><br> 
 
+<img height="26" title="Spring Boot" alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"> &nbsp;
 <img height="26" title="React" alt="React" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor"> &nbsp;
+<img height="26" title="Angular" alt="Angular" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=ff4000"> &nbsp;
 <img height="40" title="Express.js" alt="Express.js" src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=ffffff"> &nbsp;
 <img height="26" title=".NET" alt=".NET" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor"> &nbsp;
+<img height="26" title="Laravel" alt="Laravel" src="https://icongr.am/devicon/laravel-plain-wordmark.svg?size=128&color=ff4000"> &nbsp;
 
 #### <kbd>Banco de Dados</kbd><br> 
 
